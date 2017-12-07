@@ -1,0 +1,49 @@
+{
+  "DataSet": {
+    "-xmlns": "http://www.bnr.ro/xsd",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:schemaLocation": "http://www.bnr.ro/xsd nbrfxrates.xsd",
+    "Header": {
+      "Publisher": "Academia de Studii Economice Bucuresti",
+      "PublishingDate": "2017-12-05",
+      "MessageType": "DR"
+    },
+    "Body": {
+      "Subject": "Notele la examene",
+      "OrigCurrency": "RON",
+      "Cube": {
+        "-date": "2017-12-05",
+        "Rate": [
+          {
+            "-materie": "Dispozitive si aplicatii mobile",
+            "#punctaj": "10"
+          },
+          {
+            "-materie": "Retele de calculatoare",
+            "#punctaj": "9"
+          },
+          {
+            "-materie": "Multimedia",
+            "#punctaj": "9"
+          },
+          {
+            "-materie": "Cibernetica sistemelor economice",
+            "#punctaj": "10"
+          },
+          {
+            "-materie": "Tehnologii Web",
+            "#punctaj": "10"
+          },
+          {
+            "-materie": "Econometrie",
+            "#punctaj": "8"
+          },
+          {
+            "-materie": "Analiza datelor",
+            "#punctaj": "9"
+          }
+        ]
+      }
+    }
+  }
+}

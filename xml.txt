@@ -1,0 +1,20 @@
+<DataSet xmlns="http://www.bnr.ro/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bnr.ro/xsd nbrfxrates.xsd">
+<Header>
+<Publisher>Academia de Studii Economice Bucuresti</Publisher>
+<PublishingDate>2017-12-05</PublishingDate>
+<MessageType>DR</MessageType>
+</Header>
+<Body>
+<Subject>Notele la examene</Subject>
+<OrigCurrency>RON</OrigCurrency>
+<Cube date="2017-12-05">
+<Rate currency="Dispozitive si aplicatii mobile">10</Rate>
+<Rate currency="Retele de calculatoare">9</Rate>
+<Rate currency="Multimedia">9</Rate>
+<Rate currency="Cibernetica sistemelor economice">10</Rate>
+<Rate currency="Tehnologii Web">10</Rate>
+<Rate currency="Econometrie">8</Rate>
+<Rate currency="Analiza datelor">9</Rate>
+</Cube>
+</Body>
+</DataSet>
